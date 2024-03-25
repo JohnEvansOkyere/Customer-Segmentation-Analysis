@@ -2,12 +2,12 @@
 
 This repository contains the code for a customer segmentation analysis conducted in Python. The analysis aims to segment customers based on various attributes, enabling businesses to better understand their customer base and tailor marketing strategies accordingly.
 
-##Introduction
+## Introduction
 Customer segmentation is a crucial aspect of marketing strategy, allowing businesses to identify distinct groups of customers with similar characteristics and behaviors. By segmenting customers, businesses can personalize their marketing efforts, improve customer satisfaction, and maximize profitability.
 
 In this project, we perform customer segmentation using Python, leveraging popular libraries such as Pandas, NumPy, and Scikit-learn. The dataset used for analysis contains information about customers, such as demographics, purchase history, and behavioral patterns.
 
-##Analysis Overview
+## Analysis Overview
 The analysis follows these key steps:
 
 Data Preprocessing: Cleaning and preparing the dataset for analysis. This includes handling missing values, encoding categorical variables, and scaling numerical features.
@@ -20,7 +20,7 @@ Evaluation: Assessing the quality of segmentation using relevant metrics and vis
 
 Recommendations: Drawing actionable insights from the segmentation results to guide marketing strategies and business decisions.
 
-##Recommendation
+## Recommendation
 Based on the customer segmentation analysis, the following recommendations are proposed:
 
 Tailored Marketing Campaigns: Customize marketing campaigns for each customer segment to address their specific needs and preferences. For example, target high-spending customers with loyalty programs or offer personalized recommendations to customers in the potential growth segment.
